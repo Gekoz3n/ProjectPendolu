@@ -1,6 +1,7 @@
-<img src="                                          assets/Logo1.png" alt="PendoluHelper" width="320" height="320" class="center"/>
-<p>Co-Pilot is a discord Bot designed to be the all-in-one, open-source Discord bot that handles all your server needs.</p>
-
+<p align="center">
+<img src="assets/Logo1.png" alt="PendoluHelper" width="320" height="320" class="center"/>
+<p>PendoluHelper is a discord Bot designed to be the all-in-one, open-source Discord bot that handles all your server needs.</p>
+</p>
 
 
 

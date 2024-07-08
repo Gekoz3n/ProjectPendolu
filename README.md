@@ -1,4 +1,4 @@
-<img src="Logo" alt="PendoluHelper" width="1040" height="320" />
+<img src="file:///C:/Users/user/Desktop/Logo.jpg" alt="Co-Pilot" width="1040" height="320" />
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)

@@ -105,7 +105,7 @@
 ## 🚀 Getting Started
 
 ### Invite PendoluHelper
-- [`Co-Pilot V1`](https://discord.com/api/oauth2/authorize?client_id=951083742447931392&permissions=8&scope=bot%20applications.commands)
+- [`PendoluHelperV1`](https://discord.com/api/oauth2/authorize?client_id=951083742447931392&permissions=8&scope=bot%20applications.commands)
  
 ### Deploy or Run Locally
 

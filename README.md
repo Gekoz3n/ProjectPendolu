@@ -28,7 +28,7 @@
     <img alt="Support Server Link" src="https://img.shields.io/discord/946488927865417759.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" />
    </a>
 </p>
-<h2 align="center">Welcome to Co-Pilot Bot repo! 👋</h2>
+<h2 align="center">Welcome to PendoluHelper Bot repo! 👋</h2>
 
 **🤖 Co-Pilot (All-in-one Discord Bot)**<br>
  [**Co-Pilot**](https://github.com/SlaughterBlade/Co-Pilot) is a discord Bot designed to be the all-in-one, open-source Discord bot that handles all your server needs.
@@ -98,7 +98,7 @@
 
 ## 🚀 Getting Started
 
-### Invite Co-Pilot
+### Invite PendoluHelper
 - [`Co-Pilot V1`](https://discord.com/api/oauth2/authorize?client_id=951083742447931392&permissions=8&scope=bot%20applications.commands)
  
 ### Deploy or Run Locally

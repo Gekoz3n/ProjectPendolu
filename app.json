@@ -1,5 +1,5 @@
 {
-    "name": "co-pilot",
+    "name": "PendoluHelper",
     "description": "Co-Pilot is a discord Bot designed to be the all-in-one, open-source Discord bot that handles all your server needs.",
     "repository": "https://github.com/SlaughterBlade/Co-Pilot",
     "keywords": ["discord", "bot", "discordjs"],

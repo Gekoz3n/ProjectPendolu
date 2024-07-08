@@ -37,7 +37,7 @@
 <h2 align="center">Welcome to PendoluHelper Bot repo! 👋</h2>
 
 **🤖 PendoluHelper (All-in-one Discord Bot)**<br>
- [**PendoluHelper**](https://github.com/SlaughterBlade/Co-Pilot) is a discord Bot designed to be the all-in-one, open-source Discord bot that handles all your server needs.
+ [**PendoluHelper**]([https://github.com/SlaughterBlade/Co-Pilot](https://github.com/Gekoz3n/ProjectPendolu/tree/main)) is a discord Bot designed to be the all-in-one, open-source Discord bot that handles all your server needs.
 
 ## Table of content
 

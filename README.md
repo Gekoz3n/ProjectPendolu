@@ -1,4 +1,4 @@
-<img src="assets/Logo.jpg&descriptionEditable=Co-Pilot%20is%20a%20discord%20Bot%20designed%20to%20be%20the%20all-in-one%2C%20open-source%20Discord%20bot%20that%20handles%20all%20your%20server%20needs.&font=Raleway&logo=https%3A%2F%2Fi.ibb.co%2FgTdF2sy%2Fco-pilot-logo.png&pattern=Plus&theme=Dark" alt="Co-Pilot" width="1040" height="320" />
+<img src="assets/Logo.jpg" alt="PendoluHelper" width="500" height="500" />
 
 
 

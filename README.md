@@ -36,8 +36,8 @@
 </p>
 <h2 align="center">Welcome to PendoluHelper Bot repo! 👋</h2>
 
-**🤖 Co-Pilot (All-in-one Discord Bot)**<br>
- [**Co-Pilot**](https://github.com/SlaughterBlade/Co-Pilot) is a discord Bot designed to be the all-in-one, open-source Discord bot that handles all your server needs.
+**🤖 PendoluHelper (All-in-one Discord Bot)**<br>
+ [**PendoluHelper**](https://github.com/SlaughterBlade/Co-Pilot) is a discord Bot designed to be the all-in-one, open-source Discord bot that handles all your server needs.
 
 ## Table of content
 
